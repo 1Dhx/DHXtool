@@ -1,7 +1,7 @@
 
 # DHXtool
 ___
-##how to install
+## how to install
 1. Run `pkg update && pkg upgrade` for update and upgrade pkg
 
 
