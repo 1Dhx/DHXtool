@@ -19,5 +19,9 @@ ___
 ___
 [My_telegram](https://t.me/DHXfollowers)
 ___
+## screenshot
+
+![Screenshot_٢٠٢٣-٠٨-٢٥-١٢-٢٥-١٧-٦٩٨-edit_com.termux.jpg](https://github.com/1Dhx/DHXtool/assets/142033732/65974710-19e5-4ba3-b00e-c6381641cfb2)
+
 ## END
 good bay.
