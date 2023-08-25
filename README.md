@@ -1,5 +1,5 @@
 
-##DHXtool
+# DHXtool
 ___
 ##how to install
 1. Run `pkg update && pkg upgrade` for update and upgrade pkg
@@ -19,5 +19,5 @@ ___
 ___
 [My_telegram](https://t.me/DHXfollowers)
 ___
-END
+## END
 good bay.
